@@ -164,7 +164,8 @@ twiter: https://twitter.com/spaghettidba
 ## Rick van den Bosch & Daniël te Winkel - Getting sh*t done with Azure Functions (on AKS)!
 
 - twitter: https://twitter.com/rickvdbosch
-- twitter: 
+- twitter: https://twitter.com/daniel_teWinkel
+- more: https://www.theurlist.com/gsdwaf
 
 ## Rob Bos & Michiel van Oudheusden - How to run a global, cloud scale event for 10.000 people
 
@@ -222,8 +223,6 @@ twiter: https://twitter.com/spaghettidba
 - slides: https://www.slideshare.net/BrandonMinnickMBA/correcting-common-net-asyncawait-mistakes
 - recoding from NDC Oslo 2019: https://www.youtube.com/watch?v=J0mcYVxJEl0
 - source code: 
-  - https://github.com/brminnick/AsyncAwaitBestPractices
-  - https://github.com/brminnick/AsyncAwaitBestPractices
   - https://github.com/brminnick/AsyncAwaitBestPractices
 - more: https://codetraveler.io/techorama-asyncawait/
 
