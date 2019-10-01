@@ -427,7 +427,7 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/willem_meints
 
-## Eva Pardi - Predicting earthquake damages with Azure Machine Learning1
+## Eva Pardi - Predicting earthquake damages with Azure Machine Learning
 
 - twitter: https://twitter.com/EvePardi
 
