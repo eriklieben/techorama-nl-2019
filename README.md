@@ -25,6 +25,7 @@ twiter: https://twitter.com/spaghettidba
 ## Jimmy Bogard - Getting from Monolith to Microservices
 
 - twitter: https://twitter.com/jbogard
+- slides: https://github.com/jbogard/presentations/tree/master/FromMonolithsToMicroservices
 
 ## Martin Woodward - Ship-it to every platform with Azure Pipelines
 
@@ -126,6 +127,7 @@ twiter: https://twitter.com/spaghettidba
 ## Sam Newman - Confusion In The Land Of The Serverless
 
 - twitter: https://twitter.com/samnewman
+- site: https://samnewman.io
 
 ## Grant Fritchey - Convince Your DBA to Support DevOps
 
@@ -304,6 +306,7 @@ twiter: https://twitter.com/spaghettidba
 ## Jimmy Bogard - Vertical Slice Architecture
 
 - twitter: https://twitter.com/jbogard
+- slides: https://github.com/jbogard/presentations/tree/master/VerticalSliceArchitectures
 
 ## Mads Torgersen - What's new in C# 8.0
 
