@@ -2,13 +2,14 @@
 
 Last year: [Techorama NL 2018 resources](https://github.com/eriklieben/techorama-nl-2018)
 
-## Steven Van Belleghem - Customer Experience in the Age of AI Platforms2
+## Steven Van Belleghem - Customer Experience in the Age of AI Platforms
 
 - twitter: https://twitter.com/StevenVBe
 
 ## Laurent Picard - Building smarter solutions with machine learning, from magic to reality
 
 - twitter: https://twitter.com/picardparis
+- video recording at Oπe\n 2019: https://youtu.be/4iyzYfj1-aw
 
 ## Rasmus Hald - 7 learnings from implementing a cloud-first strategy
 
@@ -17,6 +18,7 @@ Last year: [Techorama NL 2018 resources](https://github.com/eriklieben/techorama
 ## Gianluca Sartori - Benchmarking in the cloud
 
 twiter: https://twitter.com/spaghettidba
+- video recording Cloud PASS virtual: https://youtu.be/1VaYs5y_x7M
 
 ## m4dz - Cryptography For Newcomers: The hitchhiker's guide to cipher in devs
 
@@ -36,7 +38,7 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/GFritchey
 
-## Christina Aldan - 5 Tips for Cultivating EQ in the Workplace1
+## Christina Aldan - 5 Tips for Cultivating EQ in the Workplace
 
 - twitter: https://twitter.com/luckygirliegirl
 
@@ -56,6 +58,7 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/RoelantDieben
 - code: https://github.com/RoelantD/OriginOfSpecies
+- example run: https://youtu.be/J56dzdJIXbY
 
 ## Alexander Arvidsson - SQL Server hates you(?) - what the DBAs never told the developers
 
@@ -65,6 +68,7 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/Suave_Pirate
 - slidedeck: https://speakerdeck.com/suavepirate/kotlin-for-c-number-developers-techorama-nl-2019
+- video recording NDC Oslo 2019: https://youtu.be/ybDD8xCqYcc
 
 ## David Ortinau - The Future of Mobile Design
 
@@ -82,6 +86,7 @@ twiter: https://twitter.com/spaghettidba
 ## Edward Thomson - A Piece of Git
 
 - twitter: https://twitter.com/ethomson
+- recording at NDC London 2019: https://youtu.be/VxmL6g9uy-A
 
 ## Sander Hoogendoorn - Constructing a Microservices Architecture in node.js and Typescript Step by Step
 
