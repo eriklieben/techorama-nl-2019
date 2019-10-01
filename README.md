@@ -26,9 +26,10 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/jbogard
 
-## Martin Woodward - Ship-it to every platform with Azure Pipelines1
+## Martin Woodward - Ship-it to every platform with Azure Pipelines
 
 - twitter: https://twitter.com/martinwoodward
+- code: https://github.com/martinwoodward/hello64
 
 ## Grant Fritchey - Team Driven Database Development With Redgate Software
 
@@ -53,6 +54,7 @@ twiter: https://twitter.com/spaghettidba
 ## Roelant Dieben - The origin of species, an Autopilot story
 
 - twitter: https://twitter.com/RoelantDieben
+- code: https://github.com/RoelantD/OriginOfSpecies
 
 ## Alexander Arvidsson - SQL Server hates you(?) - what the DBAs never told the developers
 
@@ -61,6 +63,7 @@ twiter: https://twitter.com/spaghettidba
 ## Alex Dunn - Kotlin for C# Developers
 
 - twitter: https://twitter.com/Suave_Pirate
+- slidedeck: https://speakerdeck.com/suavepirate/kotlin-for-c-number-developers-techorama-nl-2019
 
 ## David Ortinau - The Future of Mobile Design
 
@@ -73,6 +76,7 @@ twiter: https://twitter.com/spaghettidba
 ## Rainer Stropek - What is Go and why should .NET developers care?
 
 - twitter: https://twitter.com/rstropek
+- recording: https://youtu.be/c1IrtfJ_e9w
 
 ## Edward Thomson - A Piece of Git
 
@@ -134,6 +138,7 @@ twiter: https://twitter.com/spaghettidba
 ## Arthur Doler - Let’s Talk About Mental Health
 
 - twitter: https://twitter.com/ArthurDoler
+- slidedeck: https://speakerdeck.com/arthurdoler/lets-talk-about-mental-health-techorama-nl
 
 ## Steve Gordon - Let's Talk HTTP in .NET Core
 
@@ -201,6 +206,13 @@ twiter: https://twitter.com/spaghettidba
 ## Brandon Minnick - Correcting Common Async/Await Mistakes
 
 - twitter: https://twitter.com/TheCodeTraveler
+- slides: https://www.slideshare.net/BrandonMinnickMBA/correcting-common-net-asyncawait-mistakes
+- recoding from NDC Oslo 2019: https://www.youtube.com/watch?v=J0mcYVxJEl0
+- source code: 
+  - https://github.com/brminnick/AsyncAwaitBestPractices
+  - https://github.com/brminnick/AsyncAwaitBestPractices
+  - https://github.com/brminnick/AsyncAwaitBestPractices
+- more: https://codetraveler.io/techorama-asyncawait/
 
 ## Abel Wang - Kubernetes Dev for a Lazy Developer
 
@@ -213,6 +225,8 @@ twiter: https://twitter.com/spaghettidba
 ## Eduard Keilholz - Cloud Patterns to the rescue
 
 - twitter: https://twitter.com/ed_dotnet
+- https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key
+
 
 ## Richard Campbell - Building Trust in Teams
 
