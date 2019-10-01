@@ -92,13 +92,14 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/aahoogendoorn
 
-## Chris Taylor - Database CI/CD with Containers and Azure DevOps1
+## Chris Taylor - Database CI/CD with Containers and Azure DevOps
 
 - twitter: https://twitter.com/SQLGeordie
 
 ## Christina Aldan - Learn to Say "No!" Without Being a Jerk
 
 - twitter: https://twitter.com/luckygirliegirl
+- recording at Voxxed Thessaloniki 2018: https://youtu.be/LTbNlyma_Ss
 
 ## Timmy Kokke - Coding for millions
 
@@ -107,6 +108,7 @@ twiter: https://twitter.com/spaghettidba
 ## Bart Kooijmans - Simplify running your VM applications by using Docker in Azure Container Instances
 
 - twitter: https://twitter.com/Bartolomew85
+- recording at SDN Event Livestream: https://youtu.be/yke52BnB1xw
 
 
 ## Cassie Siljander - How to Build Custom Machine Learning Models with Azure Machine Learning Visual Interface
@@ -133,6 +135,7 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/samnewman
 - site: https://samnewman.io
+- video recording at GOTO2018: https://youtu.be/__bZKpcwI_Q
 
 ## Grant Fritchey - Convince Your DBA to Support DevOps
 
@@ -146,14 +149,17 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/ArthurDoler
 - slidedeck: https://speakerdeck.com/arthurdoler/lets-talk-about-mental-health-techorama-nl
+- recording at NDC London 2019: https://youtu.be/09GtrS3qyZU
 
 ## Steve Gordon - Let's Talk HTTP in .NET Core
 
 - twitter: https://twitter.com/stevejgordon
+- recording at NDC London 2019: https://youtu.be/ojDxK_-I-To
 
 ## Seth Juarez - Deep Learning with PyTorch
 
 - twitter: https://twitter.com/sethjuarez
+- recording at NDC London 2019: https://youtu.be/a7mGfacGbE0
 
 ## Rick van den Bosch & Daniël te Winkel - Getting sh*t done with Azure Functions (on AKS)!
 
