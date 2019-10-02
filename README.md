@@ -306,10 +306,10 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/iamalexmang
 
-## Cathrine Wilhelmsen - Pipelines and Packages: Introduction to Azure Data Factory1
+## Cathrine Wilhelmsen - Pipelines and Packages: Introduction to Azure Data Factory
 
 - twitter: https://twitter.com/cathrinew
-
+- slidedeck: https://www.slideshare.net/CathrineWilhelmsen/pipelines-and-packages-introduction-to-azure-data-factory-techorama-nl-2019
 
 ## Michael Yarichuk - Why databases cry at night?
 
@@ -351,6 +351,7 @@ twiter: https://twitter.com/spaghettidba
 ## Ida Bergum - Microsoft Flow Automation using Power BI API
 
 - twitter: https://twitter.com/IdaBergum
+- slidedeck: https://www.slideshare.net/mobile/IdaBergum/techorama-power-bi-automation-with-ms-flow
 
 ## Alex Dunn - Fluxing Up Your .NET Apps
 
@@ -459,6 +460,7 @@ twiter: https://twitter.com/spaghettidba
 ## René van Osnabrugge - When "We are down" is not good enough. Site Reliability Engineering (SRE) in Azure
 
 - twitter: https://twitter.com/renevo
+- slidedeck: https://www.slideshare.net/ReneVanOsnabrugge/when-down-is-not-good-enough-sre-on-azure
 
 ## Christina Aldan - Empathy Is Your Secret Weapon1
 
@@ -550,6 +552,7 @@ twiter: https://twitter.com/spaghettidba
 ## Steve Gordon - Beyond HTTP in ASP.NET Core 3.0 with gRPC
 
 - twitter: https://twitter.com/stevejgordon
+- blog: https://www.stevejgordon.co.uk/server-streaming-with-grpc-in-asp-dotnet-core
 
 ## Lemon - I'm Going To Make You Stop Hating CSS.1
 
