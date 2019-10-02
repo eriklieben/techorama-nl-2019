@@ -263,6 +263,7 @@ twiter: https://twitter.com/spaghettidba
 ## Kees Schollaart - Stop the spill, get in control of your Azure bill!
 
 - twitter: https://twitter.com/keesschollaart
+- slidedeck: https://speakerdeck.com/keesschollaart81/stop-the-spill-get-in-control-of-your-azure-bill
 
 ## Nico Jacobs - SQL Server surprises
 
@@ -291,6 +292,7 @@ twiter: https://twitter.com/spaghettidba
 ## Rainer Stropek - Web Development Revolution with WebAssembly and ASP.NET Blazor
 
 - twitter: https://twitter.com/rstropek
+- recording: https://youtu.be/Y4Zu6w_4LN4
 
 ## Guy Royse - Deep Learning like a Viking: Building Convolutional Neural Networks with Keras
 
