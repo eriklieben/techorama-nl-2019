@@ -356,6 +356,7 @@ twiter: https://twitter.com/spaghettidba
 ## Alex Dunn - Fluxing Up Your .NET Apps
 
 - twitter: https://twitter.com/Suave_Pirate
+- slidedeck: https://speakerdeck.com/suavepirate/fluxing-up-your-net-apps
 
 ## David Ortinau - Secrets To Next Level Mobile Development with Xamarin
 
