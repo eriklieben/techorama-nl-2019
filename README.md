@@ -397,6 +397,7 @@ twiter: https://twitter.com/spaghettidba
 ## Jonathan Mezach - Cool things you can do with .NET Core tooling
 
 - twitter: https://twitter.com/jmezach
+- link: https://devblogs.microsoft.com/aspnet/setting-http-header-attributes-to-enable-azure-authentication-authorization-using-httprepl/
 
 ## Kathleen Dollard - Debugging and light profiling
 
@@ -453,6 +454,7 @@ twiter: https://twitter.com/spaghettidba
 ## Edwin van Wijk - Building high-performance event-driven systems using NATS
 
 - twitter: https://twitter.com/evanwijk
+- slides & source: https://github.com/EdwinVW/nats-demos
 
 ## Martin Woodward - DevOps: Lessons learned from the Industrial Revolution1
 
@@ -522,6 +524,7 @@ twiter: https://twitter.com/spaghettidba
 ## Joonas Westlin - Zero Credential Development with Managed Identities for Azure Resources
 
 - twitter: https://twitter.com/JoonasWestlin
+- slidedeck: https://www.slideshare.net/JoonasWestlin/zero-credential-development-with-managed-identities
 
 ## Kasper de Jonge - Microsoft Power BI Premium: Building enterprise-grade models
 
@@ -537,6 +540,7 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/kenny_baas
 - twitter: https://twitter.com/joaoasrosa
+- slidedeck: https://speakerdeck.com/baasie/from-eventstorming-to-coddding-at-techorama
 
 ## Michael Yarichuk - Staying friendly with the GC
 
