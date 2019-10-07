@@ -272,6 +272,8 @@ twiter: https://twitter.com/spaghettidba
 ## Alex Thissen - It depends: loving .NET Core dependency injection or not
 
 - twitter: https://twitter.com/alexthissen
+- slidedeck: https://www.slideshare.net/AlexThissen/it-depends-loving-net-core-dependency-injection-or-not 
+- code: https://github.com/alexthissen/DependencyInjection
 
 ## Pim Elshoff - Technically DDD
 
@@ -422,6 +424,8 @@ twiter: https://twitter.com/spaghettidba
 ## Alex Thissen - I don't feel so well… Integrating health checks in your .NET Core solutions
 
 - twitter: https://twitter.com/alexthissen
+- slidedeck: https://www.slideshare.net/AlexThissen/i-dont-feel-so-well-integrating-health-checks-in-your-net-core-solutions-102-techorama 
+- code: https://github.com/alexthissen/HealthMonitoring 
 
 ## Fanie Reynders - Live Streaming 101: Here's what you need to get started in a snap
 
