@@ -77,6 +77,7 @@ twiter: https://twitter.com/spaghettidba
 ## Dennis Doomen - Trials and tribulations of a successful open-source project
 
 - twitter: https://twitter.com/ddoomen
+- slidedeck: https://www.slideshare.net/dennisdoomen/trials-and-tribulations-of-a-successful-opensource-project
 
 ## Rainer Stropek - What is Go and why should .NET developers care?
 
@@ -144,6 +145,7 @@ twiter: https://twitter.com/spaghettidba
 ## Matthijs Hoekstra - Microsoft identity platform for developers
 
 - twitter: https://twitter.com/mahoekst
+- slidedeck: https://onedrive.live.com/?id=FD4E1358FA692D29%212198160&cid=FD4E1358FA692D29
 
 ## Arthur Doler - Let’s Talk About Mental Health
 
@@ -280,9 +282,10 @@ twiter: https://twitter.com/spaghettidba
 - twitter: https://twitter.com/Pelshoff
 - slidedeck: https://speakerdeck.com/pelshoff/technically-ddd-c-number-v10
 
-## Olivia Liddell - Socially Engineering Your Pathway to a Better Team1
+## Olivia Liddell - Socially Engineering Your Pathway to a Better Team
 
 - twitter: https://twitter.com/oliravi
+- slidedeck: https://www.slideshare.net/OliviaLiddell/olivia-liddell-techorama-netherlands-2019-socially-engineering-your-pathway-to-a-better-team-179073364
 
 ## Kevin Dockx - API Security with OAuth2 and OpenID Connect in Depth
 
@@ -304,6 +307,7 @@ twiter: https://twitter.com/spaghettidba
 ## Mike Martin - Enter The Matrix: Securing Azure’s assets
 
 - twitter: https://twitter.com/TechMike2kX
+- slidedeck: https://onedrive.live.com/?authkey=%21AKd8aYFaEv9wW3E&id=756210861907937A%212857982&cid=756210861907937A
 
 ## Alex Mang - Lessons Learned From Running Serverless Applications In Production
 
@@ -509,10 +513,13 @@ twiter: https://twitter.com/spaghettidba
 ## Matthijs Hoekstra - Identity in the center of your applications best practices
 
 - twitter: https://twitter.com/mahoekst
+- slidedeck: https://onedrive.live.com/?id=FD4E1358FA692D29%212198160&cid=FD4E1358FA692D29
 
-## Olivia Liddell - Think Like a Trainer: Improving Your Communication Skills2
+## Olivia Liddell - Think Like a Trainer: Improving Your Communication Skills
 
 - twitter: https://twitter.com/oliravi
+- slidedeck: https://www.slideshare.net/OliviaLiddell/olivia-liddell-techorama-2019-think-like-a-trainer-improving-your-communication-skills-179074542
+- recording: https://youtu.be/roFiSHyUmCk
 
 ## Jeff Strauss - Multithreaded JavaScript—Web Workers and Atomics
 
