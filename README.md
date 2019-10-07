@@ -278,6 +278,7 @@ twiter: https://twitter.com/spaghettidba
 ## Pim Elshoff - Technically DDD
 
 - twitter: https://twitter.com/Pelshoff
+- slidedeck: https://speakerdeck.com/pelshoff/technically-ddd-c-number-v10
 
 ## Olivia Liddell - Socially Engineering Your Pathway to a Better Team1
 
