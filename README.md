@@ -156,6 +156,7 @@ twiter: https://twitter.com/spaghettidba
 ## Steve Gordon - Let's Talk HTTP in .NET Core
 
 - twitter: https://twitter.com/stevejgordon
+- slidedeck: https://speakerdeck.com/stevejgordon/lets-talk-http-in-net-core
 - recording at NDC London 2019: https://youtu.be/ojDxK_-I-To
 
 ## Seth Juarez - Deep Learning with PyTorch
@@ -223,7 +224,7 @@ twiter: https://twitter.com/spaghettidba
 
 - twitter: https://twitter.com/TheCodeTraveler
 - slides: https://www.slideshare.net/BrandonMinnickMBA/correcting-common-net-asyncawait-mistakes
-- recoding from NDC Oslo 2019: https://www.youtube.com/watch?v=J0mcYVxJEl0
+- recording from NDC Oslo 2019: https://www.youtube.com/watch?v=J0mcYVxJEl0
 - source code: 
   - https://github.com/brminnick/AsyncAwaitBestPractices
 - more: https://codetraveler.io/techorama-asyncawait/
@@ -480,7 +481,9 @@ twiter: https://twitter.com/spaghettidba
 
 ## Maurice de Beijer - Why I am hooked on the future of React
 
-- twitter: 
+- twitter: https://twitter.com/MauriceDB
+- slidedeck: https://www.slideshare.net/mauricedb/i-am-hooked-on-react
+- recording at DPC2019: https://www.youtube.com/watch?v=9Klx27QQzW0
 
 ## Pete Brown - Build IoT and Embedded solutions with Microsoft technology and more
 
@@ -569,6 +572,7 @@ twiter: https://twitter.com/spaghettidba
 ## Steve Gordon - Beyond HTTP in ASP.NET Core 3.0 with gRPC
 
 - twitter: https://twitter.com/stevejgordon
+- slidedeck: https://speakerdeck.com/stevejgordon/beyond-http-in-asp-dot-net-core-3-with-grpc
 - blog: https://www.stevejgordon.co.uk/server-streaming-with-grpc-in-asp-dotnet-core
 
 ## Lemon - I'm Going To Make You Stop Hating CSS.1
